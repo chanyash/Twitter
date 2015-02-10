@@ -28,4 +28,4 @@ Time spent: 17h
 
 ### Walkthrough
 
-![Video Walkthrough](...)
+![Video Walkthrough](record1.gif)
